@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RedisBenchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "{ConnectionString}"
+    }
+  }
+}
